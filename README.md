@@ -22,7 +22,7 @@ Give Chmod 777 Access Level
 
 This command will give read, write and execute permission to the owner, group and public. 
  
-> chmod 777  joomscan  install-perl-module.sh Kaushal.sh
+> chmod 777  joomscan  install-perl-module.sh techfest.sh
 
 > chmod 777 ToolBBC/WhatWeb/whatweb
 
@@ -35,6 +35,6 @@ After That Install Perl Module
 Installation Finish Now Run This Tool
 
 Run This Tool 
-> ./Kaushal.sh
+> ./techfest.sh
 
 
